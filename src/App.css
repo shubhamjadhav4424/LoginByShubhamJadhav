@@ -1,0 +1,8 @@
+.main_container{
+  background: linear-gradient(29deg, #6868ff, #ff5d5d, #d300ffcc, #ff9232);
+      height: 100vh;
+}
+
+.show_button{
+  color: white;
+}
